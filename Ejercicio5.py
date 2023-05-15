@@ -5,5 +5,3 @@ def bisiesto (anio):
         print(f"El año '{anio}' es año bisiesto")
     else: print(f"El año '{anio}' no es un año bisiesto")
 bisiesto()                   
-
-
